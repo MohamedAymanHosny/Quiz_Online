@@ -1,4 +1,4 @@
-# Combined Quiz in Prolog
+<h1 align="center">Combined Quiz in Prolog</h1>
 
 This Prolog program implements a **Combined Quiz System** that includes two types of quizzes:
 1. **Multiple-Choice Questions (MCQs)**
